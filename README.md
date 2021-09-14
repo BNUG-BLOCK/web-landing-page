@@ -1,2 +1,3 @@
 # web-landing-page
-The main anding of bnug.finance website.
+The main landing of bnug.finance website.
+HTML, CSS, Javascript and PHP.
